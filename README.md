@@ -1,5 +1,5 @@
 Hi, I am <b>Jiasen (Jason) Zheng</b> :wave:.<br><br>
-I am currently a student in the M.S. <b>Robotics</b> program at Northwestern University. Before Northwestern, I received my Bachelor's degree in Mechanical Engineering from Union College, where I developed various skills in mechanical design, engineering simulations, and mathematics. I am interested in the <b>autonomous vehicle</b> industry, and my projects involve <b>perception</b>, <b>SLAM</b>, <b>planning</b>, etc.
+I am currently a student in the M.S. <b>Robotics</b> program at Northwestern University. Before Northwestern, I received my Bachelor's degree in Mechanical Engineering from Union College. My projects involve <b>calibration</b>, <b>machine learning</b>, <b>point cloud processing</b>, etc.
 
 * Linkedin: https://www.linkedin.com/in/jiasen-zheng/
 * Protfolio: https://jiasenzheng.github.io
